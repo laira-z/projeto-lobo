@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/laira-z/projeto-lobo#readme",
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "jquery": "^3.7.1"
   },
   "devDependencies": {

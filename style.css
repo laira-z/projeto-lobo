@@ -1,0 +1,106 @@
+/* Navbar */
+.navbar-brand img {
+  margin-right: 10px;
+  padding: 10px;
+}
+
+.navbar-nav .nav-link {
+  color: #000;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #007bff;
+}
+
+/*Carousel*/
+.carousel-item img {
+  width: 100%;
+  height: auto;
+  object-fit: cover; /* Garante que a imagem cubra o container */
+  max-height: 530px; /* Ajusta a altura máxima conforme necessário */
+}
+
+/* Produtos */
+.card {
+  border: none;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Serviços */
+.card {
+  border: solid red 1px;
+  padding: 50px;
+}
+
+.card-title {
+  color: red;
+  font-weight: bold;
+}
+
+/* Formulário de Proposta */
+section[style*="background-image"] {
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: overlay;
+  color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.form-control {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.form-control:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.btn-danger {
+  background-color: #d9534f;
+  border-color: #d43f3a;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-danger:hover {
+  background-color: #c9302c;
+  border-color: #ac2925;
+}
+
+.form-check-label {
+  color: #fff;
+}
+
+.form-check-input {
+  margin-right: 10px;
+}
+
+/* Contato e Endereço */
+.contact-info {
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+.contact-info img {
+  margin-bottom: 10px;
+}
+
+.contact-info p {
+  margin: 0;
+  padding: 5px;
+}
+
+/* Footer */
+footer.footer {
+  background-color: #2e1f46 !important;
+  color: #fff;
+}
