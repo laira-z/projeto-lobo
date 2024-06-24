@@ -8,7 +8,7 @@ export class MotorcycleService {
     const options = {
       method: "GET",
       headers: {
-        "x-rapidapi-key": "918f06bb08msha5e3d99047b4896p13faeejsnf34852dafdc4",
+        "x-rapidapi-key": "3b0d61d9c5msh387bc0ae6456b5fp1f93f9jsn9a0d5b7255b2",
         "x-rapidapi-host": "motorcycle-specs-database.p.rapidapi.com",
       },
     };
@@ -41,7 +41,7 @@ export class MotorcycleService {
     const options = {
       method: "GET",
       headers: {
-        "x-rapidapi-key": "918f06bb08msha5e3d99047b4896p13faeejsnf34852dafdc4",
+        "x-rapidapi-key": "3b0d61d9c5msh387bc0ae6456b5fp1f93f9jsn9a0d5b7255b2",
         "x-rapidapi-host": "motorcycle-specs-database.p.rapidapi.com",
       },
     };
@@ -74,7 +74,7 @@ export class MotorcycleService {
     const options = {
       method: "GET",
       headers: {
-        "x-rapidapi-key": "918f06bb08msha5e3d99047b4896p13faeejsnf34852dafdc4",
+        "x-rapidapi-key": "3b0d61d9c5msh387bc0ae6456b5fp1f93f9jsn9a0d5b7255b2",
         "x-rapidapi-host": "motorcycle-specs-database.p.rapidapi.com",
       },
     };
